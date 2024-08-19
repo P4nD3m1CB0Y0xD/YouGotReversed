@@ -1,5 +1,7 @@
 /* 
-Reference: https://x.com/Huntio/status/1823280152845107543
+Reference: 
+	https://x.com/Huntio/status/1823280152845107543
+ 	https://p4nd3m1cb0y0xd.github.io/yougotreversed/2024/08/18/a-in-the-wild-linux-threat.html
 Samples:
   facafec4183ca19a003b941f3c668917a3b5ab891e7c939d1e6fc37692416942 - x64 version
   4c0ace878616b963dd6ed320ace24309eaeacfc143255d1639d83130a244719c - x86 version
